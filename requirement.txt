@@ -1,0 +1,10 @@
+asgiref==3.12.1
+distlib==0.4.3
+Django==6.1.2
+filelock==4.0.6
+mysql-connector-python==26.7.0
+platformdirs==4.12.1
+python-discovery==1.6.1
+sqlparse==0.6.0
+tzdata==2026.5
+virtualenv==21.13.0
